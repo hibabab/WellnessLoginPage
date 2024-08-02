@@ -1,2 +1,2 @@
 # WellnessLoginPage
-Modern login page using HTML, CSS, JavaScript, and Tailwind CSS with Google sign-in integration. Responsive and aesthetically pleasing design."
+Responsive login page built with HTML, CSS, JavaScript, and Tailwind CSS, featuring Google sign-in integration and a modern, sleek design.
